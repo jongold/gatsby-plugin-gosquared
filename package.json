@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-gosquared",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add your GoSquared snippet to Gatsby",
   "main": "index.js",
   "scripts": {
